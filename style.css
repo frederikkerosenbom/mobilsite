@@ -59,6 +59,7 @@ p {
   margin-block: 0.8rem;
   color: #c35257;
   text-wrap: "pretty";
+  line-height: 1.6;
 }
 img {
   border: 15px double #f38629;
@@ -107,4 +108,14 @@ a {
   margin-left: -2rem;
   margin-right: -2rem;
   padding-left: 0.5rem;
+}
+
+.specifikationer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin-block: 0.8rem;
+  color: #c35257;
+  text-wrap: "pretty";
+  line-height: 1.6;
+  padding-left: 2rem;
 }
